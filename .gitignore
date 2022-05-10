@@ -1,0 +1,8 @@
+.DS_Store
+
+node_modules
+
+# client
+client/node_modules
+client/dist
+client/.DS_Store
